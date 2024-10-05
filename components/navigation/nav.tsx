@@ -10,7 +10,7 @@ const Nav = async () => {
 	console.log(session);
 
 	return (
-		<header className="bg-slate-500">
+		<header className="">
 			<nav>
 				<ul className="flex justify-between items-center p-4">
 					<li>

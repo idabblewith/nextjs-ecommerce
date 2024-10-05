@@ -15,6 +15,13 @@
       "when": 1728104195192,
       "tag": "0001_windy_puff_adder",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1728118542286,
+      "tag": "0002_careful_chat",
+      "breakpoints": true
     }
   ]
 }
