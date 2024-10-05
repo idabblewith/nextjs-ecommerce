@@ -8,6 +8,13 @@
       "when": 1728019115832,
       "tag": "0000_shocking_living_mummy",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1728104195192,
+      "tag": "0001_windy_puff_adder",
+      "breakpoints": true
     }
   ]
 }
