@@ -20,7 +20,7 @@ const AuthCard = ({
 	cardTitle: string;
 	backButtonHref: string;
 	backButtonLabel: string;
-	showSocials: boolean;
+	showSocials?: boolean;
 }) => {
 	return (
 		<Card>

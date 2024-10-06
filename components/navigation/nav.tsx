@@ -12,7 +12,7 @@ const Nav = async () => {
 	return (
 		<header className="">
 			<nav>
-				<ul className="flex justify-between items-center p-4">
+				<ul className="flex justify-between items-center p-4 py-0">
 					<li>
 						<a href="/">
 							<Logo />
